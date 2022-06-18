@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahmadilham22&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadilham22&langs_count=5&theme=tokyonight)]()
-![](https://raw.githubusercontent.com/ahmadilham22/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ahmadilham22/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
