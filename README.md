@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://raw.githubusercontent.com/ahmadilham22/github-ahmadilham22-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)
+<p align="left">
+<a href="https://github.com/ahmadilham22">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadilham22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadilham22&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
